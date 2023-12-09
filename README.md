@@ -1,3 +1,6 @@
 Hola,
 
-Aqui las primeras instrucciones.
+Aqui primeras instrucciones.
+
+1- Instruccion.
+2- Instruccion.
